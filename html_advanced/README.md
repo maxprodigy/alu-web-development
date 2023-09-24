@@ -1,3 +1,6 @@
-![image](https://user-images.githubusercontent.com/109481899/215094199-410aedc7-a1c2-4b61-a9c8-516f889d456e.png)
-readme file for html_advanced
-HTML
+## HTML Advanced
+
+- Implement from scratch a webpage from a designer file : no CSS, no style - just pure HTML semantic
+
+## Design
+<img width="1440" alt="School Page@2x" src="https://user-images.githubusercontent.com/67793634/192224177-3a136d6d-9c94-426a-8bda-370f44123684.png">
